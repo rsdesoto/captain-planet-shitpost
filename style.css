@@ -1,0 +1,9 @@
+#hellmo {
+  position: absolute;
+  display: none;
+  width: 50%;
+
+  left: 25%;
+  bottom: 0px;
+  z-index: 9999;
+}
